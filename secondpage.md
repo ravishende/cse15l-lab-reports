@@ -18,8 +18,8 @@ Want an ordered list?
 2. two
 3. three
 
-'''
+```
 //this is a multiline code block
 it doesn't actually run any code
 but it looks nice
-'''
+```
