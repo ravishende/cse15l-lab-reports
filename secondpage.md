@@ -1,12 +1,14 @@
 # This is my second page.
-## It is called secondpage.md
-*here is some more content*
+
 [link to google](https://google.com)
 
-**Look at this frog**
+## Look at this frog
 ![Image](https://www.nhm.ac.uk/content/dam/nhmwww/discover/frog-eyes-evolution/frog-eyes-chubby-frog-flower-full-width.jpg)
 `frogg`
 ---
+*like what's up with his eyes tho?*
+
+**he so silly**
 
 ### here is a list:
 * item one
